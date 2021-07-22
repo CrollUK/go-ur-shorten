@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
-	"github.com/prologic/bitcask"
+	"git.mills.io/prologic/bitcask"
 	"log"
 )
 
